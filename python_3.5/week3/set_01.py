@@ -3,7 +3,7 @@
 # @Author: tkk1234
 # @Date:   2018-05-18 16:11:04
 # @Last Modified by:   tkk1234
-# @Last Modified time: 2018-05-18 22:43:07
+# @Last Modified time: 2018-05-18 17:40:51
 
 # 集合是一个无序的，不重复的数据组合，它的主要作用如下：
 # 去重，把一个列表变成集合，就自动去重了
@@ -65,5 +65,3 @@ print(list_1.pop())
 
 # print(list_1.remove('ddd'))  #remove如果删了不存在的元素，则会报错
 print(list_1.discard(1)) #discard如果删了不存在的元素，也不会报错
-
-#在家测试一下git~~~
